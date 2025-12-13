@@ -1,5 +1,7 @@
 # Коммуникация в профессиональной деятельности психолога
 
+*Communication in Psychotherapy: A Process-Oriented Approach to Rupture, Repair, and Change*
+
 ## Оглавление
 
 - [Введение](./introduction.md)

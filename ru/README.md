@@ -1,5 +1,7 @@
 # Коммуникация в профессиональной деятельности психолога
 
+**English title:** *Communication in Psychotherapy: A Process-Oriented Approach to Rupture, Repair, and Change*
+
 Полноценный учебный курс по профессиональной коммуникации для психологов и психотерапевтов.
 
 ## О курсе
